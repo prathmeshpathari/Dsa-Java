@@ -10,6 +10,7 @@ public class LargestElementOfArray {
 		Scanner sc = new Scanner(System.in);
 		int length= sc.nextInt();
 		
+		
 		int arr[] = new int[length];
 		
 		for (int i = 0; i < arr.length; i++)
